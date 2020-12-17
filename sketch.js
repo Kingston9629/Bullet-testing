@@ -26,7 +26,7 @@ function draw() {
       wall.shapeColor=color(255,0,0);
     }
 
-    if (damge<10)
+    if (damage<10)
       wall.shapeColor=color(0,255,0);
   }
 
